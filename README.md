@@ -1,7 +1,5 @@
 <!-- Animated Header with Typing Effect -->
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=34&duration=3500&pause=500&color=00D4FF&center=true&vCenter=true&width=600&lines=Hi+👋,+I'm+Rishav;Full+Stack+%7C+AI+Engineer;GenAI+%7C+LLM+Orchestration;RAG+%7C+Vector+%7C+Context;Math+%26+Code+Artisan" alt="Typing SVG" />
-</h1>
+
 
 <!-- Animated Wave -->
 <p align="center">
