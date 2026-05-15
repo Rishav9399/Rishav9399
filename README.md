@@ -75,7 +75,7 @@ To enable the snake, add a GitHub Action workflow – or remove this section if 
 
 💼 LinkedIn: rishav9399
 
-📧 Email: rishavkumar1dec@gmail.com (replace with yours)
+📧 Email: rishavkumar1dec@gmail.com
 
 🌐 Portfolio: coming soon
 
